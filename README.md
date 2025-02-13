@@ -1,5 +1,7 @@
 # Zomato Orders Data Analysis using Power BI
 
+![Dashboard Screenshot](https://github.com/shloktilokani/PowerBI-Zomato-Data-Analysis/blob/main/Res/Dashboard%20Recording.gif)
+
 ## Overview
 This project analyzes Zomato order data using Power BI to uncover trends in customer preferences, restaurant performance, and overall sales metrics.
 
